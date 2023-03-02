@@ -1,1 +1,1 @@
-# neir
+необходимо распоковать mnist_train.zip
