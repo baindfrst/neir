@@ -1,0 +1,5 @@
+a = input()
+work_input = open(a, 'r')
+record = work_input.readline()
+all_values = record.split(',')
+print(all_values)
